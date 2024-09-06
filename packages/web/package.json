@@ -13,10 +13,10 @@
     "html-webpack-plugin": "^5.5.0",
     "react-dom": "^18.2.0",
     "recoil": "^0.7.6",
-    "styled-components": "^5.3.6",
+    "styled-components": "^6.1.0",
     "ts-loader": "^9.4.1",
     "webpack": "^5.74.0",
-    "webpack-dev-server": "^4.11.1"
+    "webpack-dev-server": "^5.1.0"
   },
   "devDependencies": {
     "webpack-cli": "^4.10.0"
